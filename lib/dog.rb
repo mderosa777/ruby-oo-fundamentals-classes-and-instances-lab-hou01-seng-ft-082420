@@ -1,5 +1,4 @@
 class Dog
 
 end
-fido = Dog.mew
-end
+fido = Dog.new
